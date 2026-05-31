@@ -31,8 +31,8 @@ A full-stack engineer trained through **ALX**, with a foundation in C, Shell, an
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdikarimAbdullahi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdikarimAbdullahi&theme=radical&hide_border=false&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdikarimAbdullahi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdikarimAbdullahi&theme=radical&hide_border=false&layout=compact&cache_seconds=86400" alt="top langs" />
 </div>
 
 ## 🐍 Contribution Snake
