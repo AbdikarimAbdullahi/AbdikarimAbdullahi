@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- TYPING HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abdikarim+Abdullahi;Full-Stack+Engineer+%7C+ALX;Aspiring+Cybersecurity+Practitioner;Building+a+safer+digital+future" alt="Typing SVG" />
+</div>
 
-<!--
-**AbdikarimAbdullahi/AbdikarimAbdullahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+A full-stack engineer trained through **ALX**, with a foundation in C, Shell, and Linux systems engineering. I'm now channeling that systems-level understanding into **cybersecurity** — learning how to defend the infrastructure I've learned to build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently deepening my skills in **defensive security & secure systems**
+- 🌱 Learning: network security, Linux hardening, and SOC fundamentals
+- 💬 Always open to collaboration and learning with the community
+- 📍 Based in Mogadishu, Somalia 🇸🇴
+
+## 🌐 Socials
+<p align="left">
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdikarimAbdullahi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdikarimAbdullahi&theme=radical&hide_border=false&layout=compact" alt="top langs" />
+</div>
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbdikarimAbdullahi/AbdikarimAbdullahi/output/snake.svg" alt="snake animation" />
+</div>
+
+---
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AbdikarimAbdullahi&icon=0&color=0" alt="visitor count" />
+</div>
