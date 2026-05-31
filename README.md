@@ -14,7 +14,7 @@ A cybersecurity learner on the path to becoming a **SOC Analyst**, focused on th
 
 ## 🌐 Socials
 <p align="left">
-  <a href="abdikarimshabdullahi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:abdikarimshabdullahi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/abdikarin-abdullahi-2822a3265/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
