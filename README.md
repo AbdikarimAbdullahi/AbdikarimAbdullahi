@@ -1,21 +1,21 @@
 <!-- TYPING HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abdikarim+Abdullahi;Full-Stack+Engineer+%7C+ALX;Aspiring+Cybersecurity+Practitioner;Building+a+safer+digital+future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abdikarim+Abdullahi;Aspiring+SOC+Analyst;Cybersecurity+%7C+Blue+Team+in+Training;Learning+Threat+Detection+%26+Response" alt="Typing SVG" />
 </div>
-
 ---
 
-A full-stack engineer trained through **ALX**, with a foundation in C, Shell, and Linux systems engineering. I'm now channeling that systems-level understanding into **cybersecurity** — learning how to defend the infrastructure I've learned to build.
+A cybersecurity learner on the path to becoming a **SOC Analyst**, focused on the **blue team** side of security — detection, monitoring, and incident response. I'm building hands-on skills through structured **SOC analyst training** and the **TryHackMe** learning paths, working through real labs rather than just theory.
 
-- 🔭 Currently deepening my skills in **defensive security & secure systems**
-- 🌱 Learning: network security, Linux hardening, and SOC fundamentals
-- 💬 Always open to collaboration and learning with the community
+- 🛡️ Training as a **SOC Analyst** — log analysis, threat detection & incident response
+- 🧠 Currently working through **TryHackMe** rooms and the SOC Level 1 path
+- 🔍 Learning: SIEM fundamentals, network traffic analysis, and Linux security
+- 🤝 Always open to collaboration and learning with the security community
 - 📍 Based in Mogadishu, Somalia 🇸🇴
 
 ## 🌐 Socials
 <p align="left">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:abdikarimshabdullahi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/abdikarin-abdullahi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ## 💻 Tech Stack
